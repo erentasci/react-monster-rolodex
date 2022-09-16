@@ -1,0 +1,12 @@
+.Card-list{
+    height: 100%;
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.Card-list img{
+    margin: 0 10px 10px 10px;
+}

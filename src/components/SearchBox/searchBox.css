@@ -1,0 +1,16 @@
+.Search-box{
+    height: 50px;
+    min-width: 20vw;
+    width: 40vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.Search-box_input{
+    border: none;
+    outline: none;
+    padding: 15px;
+    border-radius: 6px;
+    border: 2px solid gray;
+}
