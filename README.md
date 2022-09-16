@@ -1,3 +1,16 @@
+# React Monster Rolodex
+
+Live URL 💻 : https://erentasci-react-monster-rolodex.vercel.app/
+
+```
+- React
+- JSON Placeholder API - Fake REST API
+```
+
+Screenshots:
+
+![screenshot](./src/images/screenshot.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
